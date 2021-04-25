@@ -1,0 +1,29 @@
+body{
+    background-color: #f3f3f3;
+}
+
+body{
+    color: #808080;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1, h2 {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+    color: black;
+}
+
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.font-black p {
+    color: black;
+}
+
+.font-black li {
+    color: black;
+}
